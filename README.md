@@ -1,8 +1,10 @@
-# Nasa-Project.io
-Api - YEE1yRZ4GJnrAmz1y0QkRYdWv5jGnG1U4GvORvIT
-npm i for node packages and then npm run dev to run app For backup please see below .env
+# 🚀 NASA Project Explorer
 
-Please create a .env file and put this 
-PORT=5001
-NASA_API_KEY= YEE1yRZ4GJnrAmz1y0QkRYdWv5jGnG1U4GvORvIT
-NODE_ENV=development
+A full-stack web app that fetches and displays space data from NASA's Open APIs using a React frontend and Node.js + Express backend.
+
+- React (Frontend)
+- Node.js + Express (Backend)
+- NASA Open APIs
+
+git clone https://github.com/xKHANAZRAELx/Nasa-Project.io.git
+cd Nasa-Project.io
